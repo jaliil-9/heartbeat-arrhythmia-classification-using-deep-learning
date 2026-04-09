@@ -1,4 +1,4 @@
-# Heartbeat-Arrhythmia-Classification-using-Deep-Learning-MIT-BIH-Arrhythmia-Database
+# heartbeat-arrhythmia-classification-using-deep-learning
 
 ## Overview
 This repository contains the code for a deep learning project aimed at predicting heartbeat arrhythmia classes using a custom model built with a combination of 1D Convolutional Neural Network (CNN), Bidirectional Gated Recurrent Unit (GRU), and Fully Connected layers. The model is trained and evaluated on six classes from the MIT-BIH Arrhythmia Database.
@@ -64,7 +64,3 @@ The model demonstrated high accuracy and robustness in predicting arrhythmia cla
 ## Acknowledgments
 - The MIT-BIH Arrhythmia Database was used for this project.
 - Inspiration and guidance were drawn from various research papers and online resources on deep learning and ECG signal processing.
-
----
-
-Feel free to contribute to this project by opening issues or submitting pull requests. For any questions or suggestions, please contact [jalilbouziane@protonmail.com].
